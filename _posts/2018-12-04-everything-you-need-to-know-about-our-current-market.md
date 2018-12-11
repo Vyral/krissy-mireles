@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Our local market has seen some incredible growth, so today we’ll be sharing
   what you can do to make the most of it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Krissy+Mireles/Waxahachie%252C+TX+Real+Estate+Agent-+Your+Market+Questions+Answered.mp4
 pullquote: Ellis County is currently experiencing a seller's market
 enclosure_type: video/mp4
 enclosure_time:
