@@ -37,7 +37,7 @@ In addition to this, we’re also excited to continue bringing you the hottest t
 
 6:01 - Is forgoing representation actually less expensive?
 
-6:34 - How and why to contact our team
+6:34 - How and why you should contact our team
 
 7:03 - How to get your real estate questions answered in a future video
 
