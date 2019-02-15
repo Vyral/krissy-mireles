@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/krissy-mireles-the-home-buying-process-explained-youtube.jpg
-youtube_code: 'https://youtu.be/v_6l38M6Q8Y'
+youtube_code: 'https://youtu.be/M0kZ6BVmXbo'
 ---
 
 {% include youtube.html %}
