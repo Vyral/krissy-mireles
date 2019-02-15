@@ -30,4 +30,6 @@ Buying a home can be complicated even for seasoned homebuyers, but this is espec
 * 7:15—Inspection fee
 * 8:05—Appraisal fees
 
-What you learned today is the home buying process in a nutshell, but if you’d like more detailed information, contact me today to schedule a consultation. **I’d be more than happy to sit down, discuss the process with you, and, more importantly, show you sample contracts and more so that when it comes time for you to begin the homebuying journey, you’re not lost in a foreign world.** I want to help you be comfortable making the decisions that you need to make for your family’s future.
+What you learned today is the home buying process in a nutshell, but if you’d like more detailed information, contact me today to schedule a consultation.
+
+**I’d be more than happy to sit down, discuss the process with you, and, more importantly, show you sample contracts and more so that when it comes time for you to begin the home buying journey, you’re not lost in a foreign world.** I want to help you be comfortable making the decisions that you need to make for your family’s future.
