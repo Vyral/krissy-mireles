@@ -28,6 +28,6 @@ As a seller this spring, there are a few do’s and don’ts to be aware of if y
 
 If you’d like to talk more about prepping your home for sale or if you’re ready to start the home sale process, don’t hesitate to give me a call or send me an email. I’d be more than happy to give you a free home valuation and sit down for a consultation.&nbsp;
 
-As always, if you have any other real estate questions, feel free to reach out to me as well. I look forward to speaking with you.
+As always, if you have any other real estate questions, feel free to reach out to me as well. I look forward to speaking with you.&nbsp;
 
 &nbsp;
