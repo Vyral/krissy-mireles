@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Do’s and Don’ts of Prepping Your Home for the Market
-date: 2019-05-07 13:49:12
+date: 2019-05-06 13:49:00
 tags:
   - Home Seller Tips
   - Real Estate
