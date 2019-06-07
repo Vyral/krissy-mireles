@@ -39,6 +39,6 @@ Right now, Tom has a lot of different loan programs available for first-time hom
 
 **Although Tom is an expert himself, he couldn’t do what he does without his team.** His loan officer, Tammy, has been working with him for 25 years and is an integral part of his process.
 
-If you have any questions for Tom or you’re curious about what kind of home you can afford, give him a call at (972) 935-9200 or send him an email to tbartosh@primewestcorp.com.
+If you have any questions for Tom or you’re curious about what kind of home you can afford, give him a call at (972) 935-9200 or send him an email to <u><strong><a href="mailto:tbartosh@primewestcorp.com">tbartosh@primewestcorp.com</a></strong></u>.
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
