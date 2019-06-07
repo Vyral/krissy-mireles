@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  A Conversation With Prime West Mortgage’s Tom BartoshA Conversation With Prime
-  West Mortgage’s Tom Bartosh
+title: A Conversation With Prime West Mortgage’s Tom Bartosh
 date: 2019-06-06 00:00:00
 tags:
   - Real Estate
