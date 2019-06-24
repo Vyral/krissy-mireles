@@ -35,7 +35,7 @@ If Tom sends me a pre-approval letter for a buyer, I know that it is golden. Now
 
 Right now, Tom has a lot of different loan programs available for first-time homebuyers. There are grants, low down payment options, and much more. There are about five different programs that Tom has been utilizing. Tom loves working with first-time buyers and seeing the look on their faces at the end when their home closes.
 
-**Although Tom is an expert himself, he couldn’t do what he does without his team.** His loan officer, Tammy, has been working with him for 25 years and is an integral part of his process.
+**Although Tom is an expert himself, he couldn’t do what he does without his team.** His loan processor, Tammy, has been working with him for 25 years and is an integral part of his process.
 
 If you have any questions for Tom or you’re curious about what kind of home you can afford, give him a call at (972) 935-9200 or send him an email to <u><strong><a href="mailto:tbartosh@primewestcorp.com">tbartosh@primewestcorp.com</a></strong></u>.
 
