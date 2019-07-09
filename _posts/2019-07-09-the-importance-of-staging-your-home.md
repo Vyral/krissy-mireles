@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Staging Your Home
-date: 2019-07-09 13:51:40
+date: 2019-07-09 13:51:00
 tags:
   - Real Estate
   - Home Seller Tips
