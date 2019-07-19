@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/krissy-mireles-the-many-benefits-of-home-staging-youtube.jpg
-youtube_code: 'https://youtu.be/ddqcNkEKMwU'
+youtube_code: 'https://youtu.be/DtWPB16cd4w'
 ---
 
 {% include youtube.html %}
