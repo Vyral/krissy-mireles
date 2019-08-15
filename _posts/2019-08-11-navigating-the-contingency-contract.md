@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/xT6eF_8NiYQ'
 
 {% include youtube.html %}
 
-So you want to make a move, you have to put your home on the market, but you need the proceeds from that home sale to put toward your next home purchase.&nbsp;
+You're ready to put your home on the market and make a move, but you need the proceeds from your sale to go toward your next home purchase.&nbsp;
 
 If you don’t want to do a double-move or you don’t have the time or resources to move into a temporary rental, **you need to know how to navigate the contingency contract.&nbsp;**
 
