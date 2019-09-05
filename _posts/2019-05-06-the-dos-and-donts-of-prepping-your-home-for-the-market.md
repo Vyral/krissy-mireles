@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re getting ready to sell this spring, there are a few do’s and don’ts
   of prepping your home for the market that you need to be aware of.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+The+Dos+and+DonTs+of+Making+Your+Home+Market-Ready+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
