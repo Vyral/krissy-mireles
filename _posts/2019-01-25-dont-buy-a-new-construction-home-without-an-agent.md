@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re purchasing a new construction home, do you still need an agent
   working on your behalf? Actually, yes—and today we’ll explain why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+Dont+Walk+into+a+New+Construction+Home+Alone+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,11 +21,11 @@ youtube_code: 'https://youtu.be/rRMOYQa-b0U'
 
 {% include youtube.html %}
 
-Happy New Year! Our team has already heard from an incredible number of buyers and sellers seeking our help with their 2019 real estate goals, and we’re so excited to make this year our best yet. 
+Happy New Year\! Our team has already heard from an incredible number of buyers and sellers seeking our help with their 2019 real estate goals, and we’re so excited to make this year our best yet.&nbsp;
 
-In addition to this, we’re also excited to continue bringing you the hottest tips from our market. And, today, we’ll be covering a particularly important one: Hire a Realtor when you buy new construction. 
+In addition to this, we’re also excited to continue bringing you the hottest tips from our market. And, today, we’ll be covering a particularly important one: Hire a Realtor when you buy new construction.&nbsp;
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific sections at your leisure: **
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific sections at your leisure:&nbsp;**
 
 0:47 - Do buyers really need representation during a new home purchase?
 
@@ -42,4 +43,4 @@ In addition to this, we’re also excited to continue bringing you the hottest t
 
 7:03 - How to get your real estate questions answered in a future video
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
