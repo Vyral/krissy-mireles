@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Staging is one thing that can tip the scales in favor of a home seller. Here’s
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/The+Importance+of+Staging+Your+Home+(1).mp4
 pullquote: Soft staging is the way to go.
 enclosure_type: video/mp4
 enclosure_time:
