@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Your 2019 Market Forecast for Ellis County and the DFW Metro Area
-date: 2019-02-08 20:08:36
+date: 2019-02-08 20:08:00
 tags:
   - Market Update
   - Real Estate
 excerpt: >-
   We’re still in a strong seller’s market, but as you’ll see, conditions are
   starting to favor buyers as we move forward in 2019.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+Whats+in+Store+for+the+Rest+of+Our+2019+Market_+(1).mp4
 pullquote: >-
   I’ve been selling real estate for over 25 years, and this has been one of the
   craziest markets I’ve ever seen.
