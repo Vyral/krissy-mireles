@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today we’ll be giving a shoutout to first-time homebuyers by providing tips
   and advice about how to navigate the process of purchasing a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+The+Home+Buying+Process+Explained+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
