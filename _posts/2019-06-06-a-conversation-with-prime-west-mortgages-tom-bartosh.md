@@ -10,7 +10,8 @@ excerpt: >-
   In order to give you some greater insight into the lending process, I recently
   met with Tom Bartosh of Prime West Mortgage to discuss how he (and other
   mortgage experts) help people achieve their home buying goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+Interview+with+Tom+Bartosh+With+Prime+West+Mortgage+(1).mp4
 pullquote: 'If Tom sends me a pre-approval letter for a buyer, I know that it is golden.'
 enclosure_type: video/mp4
 enclosure_time:
