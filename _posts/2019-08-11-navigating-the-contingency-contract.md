@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   By knowing how to navigate the contingency contract, you can avoid the dreaded
   double-move.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Navigating+the+Contingency+Contract+(2).mp4
 pullquote: >-
   If you don’t want to do a double-move or you don’t have the time or resources
   to move into a temporary rental, you need to know how to navigate the
