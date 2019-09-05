@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re a homebuyer who’s looking to purchase a new home via contingency
   contract, here’s some valuable information about navigating the marketplace.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Navigating+the+Market+as+a+Contingency+Buyer+(1).mp4
 pullquote: >-
   Never reschedule buyers when they ask to view your home; let them come as they
   deem fit.
