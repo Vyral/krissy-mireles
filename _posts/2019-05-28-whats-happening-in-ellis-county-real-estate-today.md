@@ -9,7 +9,8 @@ excerpt: >-
   A lot can change in one year, and this is certainly true of our market. In
   this quick market update, we’ll share how local real estate conditions have
   changed and what these developments mean for your goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/September/Waxahachie%2C+TX+Real+Estate+Agent-+Dont+miss+this+window+of+opportunity+(1).mp4
 pullquote: Take advantage of these market conditions while they last.
 enclosure_type: video/mp4
 enclosure_time:
