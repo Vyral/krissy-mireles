@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/fJNCm8Ueg70'
 
 {% include youtube.html %}
 
-Recently, we’ve been discussing contingencies in real estate contracts. Contingent contracts are common, but can be very stressful if not properly handled. That’s why we’ve decided to tackle the topic in a short series, **the first two parts of which you can find <u><a target="_blank" href="https://krissymrealestateblog.com/navigating-the-contingency-contract.html">here</a></u> and [here](https://krissymrealestateblog.com/navigating-the-market-as-a-contingency-buyer.html){: target="_blank"}.&nbsp;**
+Recently, we’ve been discussing contingencies in real estate contracts. Contingent contracts are common, but can be very stressful if not properly handled. That’s why we’ve decided to tackle the topic in a short series, **the first two parts of which you can find [here](https://krissymrealestateblog.com/navigating-the-contingency-contract.html){: target="_blank"} and [here](https://krissymrealestateblog.com/navigating-the-market-as-a-contingency-buyer.html){: target="_blank"}.&nbsp;**
 
 This time, we’ll be talking about how to craft the best possible contingent offer. The first thing to note is people submitting contingent offers will need to be on the ball if they want to compete with other non-contingent offers the seller might be receiving. After all, multiple-offer situations are common in today’s hot market.&nbsp;
 
-If your home isn’t already on the market; your home is on the market, but isn’t listed at a price that will help it sell; or if you submit a lowball offer, a seller won’t be likely to accept your contingent offer. Therefore, the first step to crafting a strong contingent offer is actually to avoid these things.
+If your home isn’t already on the market, your home is on the market but isn’t listed at a price that will help it sell, or if you submit a lowball offer, a seller won’t be likely to accept your contingent offer. Therefore, the first step to crafting a strong contingent offer is actually to avoid these things.
 
 {% include pullquote.html %}
 
