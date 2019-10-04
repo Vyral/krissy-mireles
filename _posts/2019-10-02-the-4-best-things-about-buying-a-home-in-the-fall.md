@@ -23,7 +23,7 @@ It’s been one heck of a hot summer, and things are getting ready to cool off. 
 
 **1\. Less competition.** There may not be fewer homes on the market, but there is definitely a slowdown. With less competition, you may be able to negotiate a great deal.
 
-**2\. Sellers are serious.** When people throw their homes on the market in the fall, it’s usually for a reason. Maybe they have built a new home or decided to relocate. Either way, sellers are serious in the fall.
+**2\. Sellers are serious.** When people place their homes on the market in the fall, it’s usually for a reason. Maybe they have built a new home or decided to relocate. Either way, sellers are serious in the fall.
 
 {% include pullquote.html %}
 
