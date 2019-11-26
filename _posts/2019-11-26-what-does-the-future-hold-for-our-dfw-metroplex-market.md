@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What does the future hold for our DFW Metroplex market?
-date: 2019-11-26 19:56:15
+date: 2019-11-26 19:56:00
 tags:
   - Market Update
 excerpt: What’s on the horizon for 2020? Let’s discuss
@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-2-1.jpg
+youtube_alternate_image: /uploads/krissy-mireles-check-out-this-economic-forecast-for-2020-youtube.jpg
 youtube_code: 'https://youtu.be/bGEO5CnXlVM'
 ---
 
