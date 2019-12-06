@@ -5,7 +5,8 @@ date: 2019-11-26 19:56:00
 tags:
   - Market Update
 excerpt: What’s on the horizon for 2020? Let’s discuss
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/December/What+does+the+future+hold+for+our+DFW+Metroplex+market_.mp4
 pullquote: >-
   All signs point to 2020 being a great year for local real estate and the local
   DFW Metroplex economy.
