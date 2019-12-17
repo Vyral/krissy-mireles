@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thank You for Your Business & Support
-date: 2019-12-17 20:20:42
+date: 2019-12-17 20:20:00
 tags:
   - Real Estate
 excerpt: >-
