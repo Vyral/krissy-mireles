@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inventory Your Home
-date: 2019-12-30 21:50:06
+date: 2019-12-30 21:50:00
 tags:
   - Real Estate
 excerpt: >-
