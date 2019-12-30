@@ -19,6 +19,8 @@ youtube_code: 3HokemqJfgw
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m discussing the importance of having an inventory of all the items in your home in case of disaster or crime.</em></p>
+
 Today I want to discuss the importance of having an inventory of everything in your home. The reason why I chose this subject now is because it’s the holidays.
 
 {% include pullquote.html %}
