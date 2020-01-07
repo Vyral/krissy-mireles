@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/krissy-mireles-the-importance-of-a-home-inventory-youtube.jpg
-youtube_code: 3HokemqJfgw
+youtube_code: Ax9IH9xlmTY
 ---
 
 {% include youtube.html %}
