@@ -21,7 +21,7 @@ youtube_code: 3HokemqJfgw
 
 *Today I’m discussing the importance of having an inventory of all the items in your home in case of disaster or crime.*
 
-Today I want to discuss the importance of having an inventory of everything in your home. The reason why I chose this subject now is that it’s the holidays.
+Today I want to discuss the importance of having an inventory of everything in your home. The reason why I chose this subject now is that it’s the start of a new year.
 
 {% include pullquote.html %}
 
