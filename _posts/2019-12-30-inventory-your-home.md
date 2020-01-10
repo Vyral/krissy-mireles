@@ -8,13 +8,13 @@ excerpt: >-
   Today I’m discussing the importance of having an inventory of all the items in
   your home in case of disaster or crime.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2019/December/Inventory+Your+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2020/Videos/January/Inventory+Your+Home+(1).mp4
 pullquote: Having an inventory of your property is critical.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/krissy-mireles-the-importance-of-a-home-inventory-youtube.jpg
-youtube_code: Ax9IH9xlmTY
+youtube_alternate_image: /uploads/krissy-mireles-the-importance-of-a-home-inventory-youtube-new.jpg
+youtube_code: ftritMFI9YE
 ---
 
 {% include youtube.html %}
