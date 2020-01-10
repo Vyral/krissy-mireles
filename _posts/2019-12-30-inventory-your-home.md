@@ -25,7 +25,7 @@ Today I want to discuss the importance of having an inventory of everything in y
 
 {% include pullquote.html %}
 
-I don’t want to frighten you, but **this time of year we have more theft and vandalism** than the other seasons. I want to make sure you’re protecting yourself so that if something happens, your life has been made a little easier. Also, in case of disaster or flooding, having an inventory of your property is critical.
+I want to make sure you’re protecting yourself so that if something happens, your life has been made a little easier. Also, in case of disaster or flooding, having an inventory of your property is critical.
 
 You should walk around your home and film each room, and take pictures of the serial numbers of all the big-ticket items in your house. Your cell phone is the perfect tool to use. Then simply upload the videos and photos to a secure place like iCloud. If something unfortunate happens, this will be one less thing to worry about. You’ll be glad you did it.&nbsp;
 
