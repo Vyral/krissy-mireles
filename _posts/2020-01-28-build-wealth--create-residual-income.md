@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build Wealth & Create Residual Income
-date: 2020-01-28 19:55:25
+date: 2020-01-28 19:55:00
 tags:
   - Real Estate
 excerpt: Here’s why investing in real estate now can help you enjoy life later on.
