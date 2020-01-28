@@ -15,7 +15,9 @@ youtube_alternate_image: /uploads/krissy-mireles-how-to-get-mailbox-money-for-re
 youtube_code: Oyx6fRbNFb8
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Here’s why investing in real estate now can help you enjoy life later on.</em></p>
 
 We have put some programs together here at the Krissy Mireles Team for individuals who are serious about this strategy. Of course, you should always strive to diversify your investment portfolio, but our program helps folks achieve their real estate goals specifically.&nbsp;
 
