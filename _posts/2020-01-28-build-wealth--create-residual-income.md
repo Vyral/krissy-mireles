@@ -17,7 +17,7 @@ youtube_code: Oyx6fRbNFb8
 
 {% include youtube.html %}
 
-*Here’s why investing in real estate now can help you enjoy life later on.*
+<p style="text-align: center;"><em>Here’s why investing in real estate now can help you enjoy life later on.</em></p>
 
 Do you want to work for the rest of your adult life? Even past retirement age? Perhaps the cost of living will be so high that you’ll have to. I’ll tell you this secret: That’s not where I want to be\!&nbsp;
 
