@@ -21,7 +21,7 @@ youtube_code: Oyx6fRbNFb8
 
 Do you want to work for the rest of your adult life? Even past retirement age? Perhaps the cost of living will be so high that you’ll have to. I’ll tell you this secret: That’s not where I want to be\!&nbsp;
 
-If you’re also on that page, then it becomes important to build wealth and create residual income for yourself. Real estate is a great vehicle to have some mailbox money coming in. You can pick up some rental properties (ensuring, of course, that you’re positive cash-flowing on those rental rates) so that **you can have monthly income to help you get out of the rat race.**&nbsp;<br>&nbsp;
+If you’re also on that page, then it becomes important to build wealth and create residual income for yourself. Real estate is a great vehicle to have some mailbox money coming in. You can pick up some rental properties (ensuring, of course, that you’re positive cash-flowing on those rental rates) so that **you can have monthly income to help you get out of the rat race.**&nbsp;
 
 {% include pullquote.html %} We have put some programs together here at the Krissy Mireles Team for individuals who are serious about this strategy. Of course, you should always strive to diversify your investment portfolio, but our program helps folks achieve their real estate goals specifically.&nbsp;
 
