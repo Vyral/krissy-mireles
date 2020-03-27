@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tax Deductions for Home Sellers
-date: 2020-03-24 20:25:39
+date: 2020-03-24 20:25:00
 tags:
   - Home Seller Tips
 excerpt: 'When you sell, you can take advantage of these five tax deductions.'
@@ -18,7 +18,7 @@ youtube_code: QTWIrKjBh0Q
 
 There are five excellent tax deductions that homeowners can take advantage when they sell their properties:
 
-**1\. Selling costs.** You can write off some of the selling costs on your taxes, including legal fees, escrow fees, advertising costs, real estate commissions, and sometimes even staging fees. Keep these in mind as you fill out your taxes; they’ll subtract those amounts from your purchase price.
+**1\. Selling costs.** You can write off some of the selling costs on your taxes, including legal fees, escrow fees, advertising costs, real estate commissions, and sometimes even staging fees. Keep these in mind as you fill out your taxes; they’ll subtract those amounts from your sales price.
 
 **2\. Home improvement repairs.** If you’re renovating your home, you can write off some of the costs. The caveat is that you can only write these off if they take place within 90 days prior to the transaction.
 
