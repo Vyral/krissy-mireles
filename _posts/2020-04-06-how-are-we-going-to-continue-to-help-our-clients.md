@@ -19,7 +19,7 @@ youtube_code: kDepHRBvuRY
 
 {% include youtube.html %}
 
-We’re doing things differently right now in regards to helping our clients buy and sell homes. Here are some of the changes we’ve made during these uncertain times.
+<p style="text-align:center">We’re doing things differently right now in regards to helping our clients buy and sell homes. Here are some of the changes we’ve made during these uncertain times.</p>
 
 If you’re in the real estate marketplace as a buyer or seller right now, I want you to know that **our team will start doing things differently in order to help as many buyers and sellers as we can navigate through real estate transactions during this time.**
 
