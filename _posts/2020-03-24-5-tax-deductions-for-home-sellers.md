@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/krissy-mireles-5-tax-deductions-yt.jpg
-youtube_code: kDepHRBvuRY
+youtube_code: WoaL9-9cjeA
 ---
 
 {% include youtube.html %}
