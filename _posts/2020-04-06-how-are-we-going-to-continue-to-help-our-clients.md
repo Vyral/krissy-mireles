@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/krissy-mireles-how-were-going-to-do-things-differently-yt.jpg
-youtube_code: fmn01hEz8gw
+youtube_code: kDepHRBvuRY
 ---
 
 {% include youtube.html %}
