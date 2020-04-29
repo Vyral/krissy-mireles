@@ -1,20 +1,21 @@
 ---
 layout: post
 title: The Scientific Benefits of UV Light in Your Home
-date:
+date: 2020-04-29 15:53:20
 tags:
-  - Homeowner Tips
+  - Real Estate
 excerpt: >-
   UV light has been proven by scientists to be highly effective at killing
   germs. Our friends at Kirk AC want to help you add UV light to your current
   HVAC system.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2020/Videos/The+Scientific+Benefits+of+UV+Light+in+Your+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/uv-yt-krissy-mireles.jpg
+youtube_code: EObs_eRSB64
 ---
 
 {% include youtube.html %}
