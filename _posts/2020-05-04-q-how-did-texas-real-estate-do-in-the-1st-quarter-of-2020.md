@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Did Texas Real Estate Do in the 1st Quarter of 2020?'
-date: 2020-05-04 15:49:39
+date: 2020-05-04 15:49:00
 tags:
   - Market Update
 excerpt: >-
@@ -19,15 +19,13 @@ youtube_code: KnZyEdkHj6A
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>How did the Texas real estate market finish during the first quarter of 2020? I have the latest news for you today.</em></p>
+*How did the Texas real estate market finish during the first quarter of 2020? I have the latest news for you today.*
 
-Although our team is considered an essential business, we’re still sheltering in place. Despite that, we’ve still got the latest news and numbers from the Texas real estate market for the first quarter of 2020.&nbsp;
+Although real estate is considered an essential business, we’re still sheltering in place. Despite that, we have the latest news and numbers from the Texas real estate market for the first quarter of 2020.&nbsp;
 
-I read an interesting article recently that said, among other things, that Texas home sales increased in the first quarter of 2020. Here’s what happened.&nbsp;
+I read an interesting article recently that said, among other things, that Texas home sales increased in the first quarter of 2020. During the first quarter, 75,052 homes were sold. **That was a 7% jump compared to the first quarter of 2019.** The median price also increased by 5.1% to $241,500. The largest percentage of homes sold across the state was in the $200,000 to $299,000 price point. Here in Ellis County, that’s right in our sweet spot.
 
-During the first quarter, 75,052 homes were sold. **That was a 7% jump compared to the first quarter of 2019.** The median price also increased 5.1% to $241,500. The largest percentage of homes sold across the state was in the $200,000 to $299,000 price point. Here in Ellis County, that’s right in our sweet spot.
-
-The article goes on to say they’re not sure about what will happen in the second or third quarter. **However, as long as people get their jobs back, we should continue to have a strong market.&nbsp;**
+The article goes on to say they’re not sure what will happen in the second or third quarter. **However, as long as people get their jobs back, we should continue to have a strong market.&nbsp;**
 
 {% include pullquote.html %}
 
