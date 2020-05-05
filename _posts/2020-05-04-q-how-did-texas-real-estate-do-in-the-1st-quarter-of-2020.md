@@ -19,7 +19,7 @@ youtube_code: KnZyEdkHj6A
 
 {% include youtube.html %}
 
-*How did the Texas real estate market finish during the first quarter of 2020? I have the latest news for you today.*
+<p style="text-align:center">How did the Texas real estate market finish during the first quarter of 2020? I have the latest news for you today.</p>
 
 Although real estate is considered an essential business, we’re still sheltering in place. Despite that, we have the latest news and numbers from the Texas real estate market for the first quarter of 2020.&nbsp;
 
