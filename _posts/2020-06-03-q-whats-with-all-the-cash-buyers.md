@@ -17,7 +17,7 @@ youtube_code: pqSMVrpTb8E
 
 {% include youtube.html %}
 
-Here’s what the rise in cash homebuyers means for you.
+<p style="text-align:center">Here’s what the rise in cash homebuyers means for you.</p>
 
 As a team that does a lot of volume, we’re negotiating deals every day and have a pretty good feel for the market. One trend that has been sticking out as of late is that there are a lot of cash buyers out there. **These aren’t just cash investors.** These are people who are using their hard-earned money and putting it into real estate.
 
