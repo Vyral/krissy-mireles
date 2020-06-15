@@ -17,7 +17,7 @@ youtube_code: SY2QDtmHD7w
 
 {% include youtube.html %}
 
-<p style="text-align:center">In July, our Give Back Program can help you save on your home sale.</p>
+<p style="text-align:center"><em>In July, our Give Back Program can help you save on your home sale.</em></p>
 
 Today, allow me to explain our Give Back Program. If you’ve been considering putting your home on the market, now is the time to connect with our team.&nbsp;
 
