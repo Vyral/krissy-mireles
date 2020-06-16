@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/give-yt-krissy-mireles.jpg
-youtube_code: SY2QDtmHD7w
+youtube_code: Y0D1sCSlzF4
 ---
 
 {% include youtube.html %}
