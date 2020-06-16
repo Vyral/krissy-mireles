@@ -23,7 +23,7 @@ Today, allow me to explain our Give Back Program. If you’ve been considering p
 
 During July, if you contact us and schedule a listing appointment to talk about what you can get for your house on the market, and say “Promo code: give back” we’re going to give back to you. These have been challenging times, so we want to give back to our clients. **You don’t necessarily have to be in need.** We speak to buyers, sellers, renters, and investors, and some people’s lives haven’t been affected much, but others are losing jobs, getting their hours cut, and having to relocate.&nbsp;
 
-We’re taking this case by case, and we want to hear your story. We want to find what the best fit is to give back to you. Some of the things we may do include discounting the listing commission or paying for a pre-listing home inspection, which will help you prepare your home for the market. So **if selling your property is something you’ve been thinking about, reach out to us today** so you can be entered into our Give Back Program.&nbsp;
+We’re taking this case by case, and we want to hear your story. We want to find what the best fit is to give back to you. Some of the things we may do include discounting the listing commission or paying for a pre-listing home inspection, which will help you prepare your home for the market. **If selling your property is something you’ve been thinking about, reach out to us today** so you can be entered into our Give Back Program.&nbsp;
 
 {% include pullquote.html %}
 
