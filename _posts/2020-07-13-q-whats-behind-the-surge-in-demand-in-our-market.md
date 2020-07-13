@@ -19,7 +19,7 @@ youtube_code: nIszejWnmcg
 
 {% include youtube.html %}
 
-Demand is surging in our market—here’s what that means for you.&nbsp;
+<p style="text-align:center">Demand is surging in our market—here’s what that means for you.</p>&nbsp;
 
 Now that the shelter-in-place orders have relaxed, it’s time for a quick update on our summer real estate market.&nbsp;
 
