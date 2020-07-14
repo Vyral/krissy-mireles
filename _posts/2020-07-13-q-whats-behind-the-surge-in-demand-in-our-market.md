@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/krissy-mireles-7-13-yt.jpg
-youtube_code: nIszejWnmcg
+youtube_code: 9THBTNEkrAI
 ---
 
 {% include youtube.html %}
