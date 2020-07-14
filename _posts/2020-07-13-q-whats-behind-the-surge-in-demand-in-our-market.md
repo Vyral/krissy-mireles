@@ -23,9 +23,9 @@ youtube_code: nIszejWnmcg
 
 Now that the shelter-in-place orders have relaxed, it’s time for a quick update on our summer real estate market.&nbsp;
 
-Nobody quite expected the market to rebound like it did, but it’s crazy out there. **There’s been a surge in demand, and according to a recent NAR survey, pending home sales skyrocketed 44.3% from April to May.** That’s the largest one-month jump in the history of the survey, which dates back to 2001.&nbsp;
+Nobody expected the market to rebound like it did, but it’s crazy out there. **There’s been a surge in demand, and according to a recent NAR survey, pending home sales skyrocketed 44.3% from April to May.** That’s the largest one-month jump in the history of the survey, which dates back to 2001.&nbsp;
 
-The pandemic, of course, is what’s primarily driving this surge. Another factor behind it, though, is the ultra-low mortgage rate we’re seeing. I thought they were low a couple of years ago, but now they’re getting ridiculous! If you’re looking to buy a home, now is the time because you’ll be able to qualify for a higher sales price (if that’s your intention). The average for 30-year fixed-rate mortgages stands at 3.13%, which is more than a 0.5% drop compared to last year. Don’t forget about refinancing, either. If you purchase a home four or five years ago at a 4% or 5% rate, it’s definitely worth your while to refinance your property.&nbsp;
+The pandemic, of course, is what’s primarily driving this surge. Another factor behind it, though, is the ultra-low mortgage rates we’re seeing. I thought they were low a couple of years ago, but now they’re getting ridiculous! If you’re looking to buy a home, now is the time because you’ll be able to qualify for a higher sales price (if that’s your intention). The average for 30-year fixed-rate mortgages stands at 3.13%, which is more than a 0.5% drop compared to last year. Don’t forget about refinancing, either. If you purchased a home four or five years ago at a 4% or 5% rate, it’s definitely worth your while to refinance your property.&nbsp;
 
 {% include pullquote.html %}
 
