@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/foreclosure-yt-krissy-mireles.jpg
 youtube_code: gcfVd5R22_c
 ---
 
