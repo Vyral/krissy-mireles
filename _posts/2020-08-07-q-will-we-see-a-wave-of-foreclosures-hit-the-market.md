@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: Will We See a Wave of Foreclosures Hit the Market?'
-date: 2020-08-07 16:10:42
+date: 2020-08-07 16:10:00
 tags:
   - Real Estate
 excerpt: Here’s why I don’t think we’ll see a wave of disclosures hit our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2020/Videos/Q-+Will+We+See+a+Wave+of+Foreclosures+Hit+the+Market_.mp4
 pullquote: >-
   There are way more cash buyers in the marketplace than we’ve ever had, so your
   home may get multiple offers and sell over asking price.
