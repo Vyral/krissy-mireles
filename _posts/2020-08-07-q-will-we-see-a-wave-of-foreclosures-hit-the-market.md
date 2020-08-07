@@ -19,7 +19,7 @@ youtube_code: gcfVd5R22_c
 
 {% include youtube.html %}
 
-Here’s why I don’t think we’ll see a wave of disclosures hit our market.
+<p style="text-align:center">Here’s why I don’t think we’ll see a wave of disclosures hit our market.</p>
 
 Being a top agent means surrounding yourself with successful organizations and agents who handle a tom of sales volume. In order to provide top-level service to your clients, you have to be improving all the time.&nbsp;
 
