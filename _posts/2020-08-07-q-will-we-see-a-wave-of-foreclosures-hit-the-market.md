@@ -19,13 +19,13 @@ youtube_code: gcfVd5R22_c
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s why I don’t think we’ll see a wave of disclosures hit our market.</p>
+<p style="text-align:center"><em>Here’s why I don’t think we’ll see a wave of disclosures hit our market.</em></p>
 
 Being a top agent means surrounding yourself with successful organizations and agents who handle a tom of sales volume. In order to provide top-level service to your clients, you have to be improving all the time.&nbsp;
 
 I’m telling you this because I keep my finger on the pulse of what other successful agents and real estate organizations are saying to gauge what’s happening in different markets and what the future’s expected to bring, and I don’t necessarily agree with what these agents predict about the future.&nbsp;
 
-Predominantly, they’re saying that we’ll see an influx of foreclosures over the next 12 to 18 months—specifically, a rise of 7% to 8%. Mind you, these agents are scattered around the globe in different marketplaces, but **I don’t subscribe to this theory for our Texas market because of our lack of inventory.&nbsp;**
+Predominantly, they’re saying that we’ll see an influx of foreclosures over the next 12 to 18 months—specifically, a rise of 7% to 8%. Mind you, these agents are scattered around the globe in different marketplaces, but **I don’t subscribe to this theory for our Texas market because of our lack of inventory.**
 
 The week before I recorded this video, I saw that Waxahachie, a city with a population of about 40,000, only had 140 homes for sale. Midlothian, with a population of roughly 30,000, had just 112 available listings. We don’t have an oversupply building either, so if a foreclosure wave hits Texas, we’ll fare pretty decently.&nbsp;
 
