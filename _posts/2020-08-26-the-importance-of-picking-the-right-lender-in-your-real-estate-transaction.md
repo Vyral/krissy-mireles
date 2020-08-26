@@ -19,7 +19,7 @@ youtube_code: 4A-eqKTRxMU
 
 {% include youtube.html %}
 
-Now more than ever, it’s critical that you pick the right lender for your real estate transaction.
+<p style="text-align:center;">Now more than ever, it’s critical that you pick the right lender for your real estate transaction.</p>
 
 I’m a listing agent, meaning that buyers and their agents come to me with lenders from all over the place, including local lenders, out-of-state lenders, and companies like QuickenLoans. As a seller’s agent, it’s important to not only look at the offers submitted to my clients but to also vet their lenders.
 
