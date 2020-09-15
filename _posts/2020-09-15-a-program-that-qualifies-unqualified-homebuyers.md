@@ -17,7 +17,7 @@ youtube_code: j4J99LcUlNc
 
 {% include youtube.html %}
 
-Here’s an exciting opportunity for the right motivated homebuyer.
+<p style="text-align:center;">Here’s an exciting opportunity for the right motivated homebuyer.</p>
 
 Are you a homebuyer out in this market who’s frustrated with the loan qualification process, or your credit score isn’t quite where it needs to be? If so, you need to contact us today. We can help you out.
 
