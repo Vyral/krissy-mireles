@@ -23,7 +23,7 @@ Ellis County currently has 1.5 months of inventory. What does that mean for you?
 
 If you’re a seller who has been thinking about making a move, now is the time to do it. Once the election is over, I’m not sure what to expect. Will the marketplace still perform the same way it is now? Maybe it will, maybe it won’t. Many people in the industry predict that we’ll see an influx of foreclosures, which could bring home prices down. I’m not sure if I subscribe to that belief yet, but I do know that if you sell your home now, we can get you top dollar in record time with the fewest inconveniences to you.
 
-{% include pullquote.html %}&nbsp;
+{% include pullquote.html %}
 
 If you’re concerned about selling your home during the pandemic, know that **I’ve been selling homes without people ever having walked into them.** Not only that, but I only need a handful of showings to sell a home. If you want to get the best possible price for it, however, you may need to allow buyers to visit it in person. Will we ever have a market with these kinds of conditions again? I can’t say. But that’s why you need to take advantage of it right now.
 
