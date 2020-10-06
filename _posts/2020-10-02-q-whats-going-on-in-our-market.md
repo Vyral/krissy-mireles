@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Our Crazy and Unprecedented Market
+title: 'Q: What’s Going on in Our Market?'
 date: 2020-10-02 06:24:00
 tags:
   - Market Update
