@@ -17,7 +17,7 @@ youtube_code: O6BEDv8rysw
 
 {% include youtube.html %}
 
-*Here’s our latest update on what’s going on in our market.*
+<p style="text-align:center;"><em>Here’s our latest update on what’s going on in our market.</em></p>
 
 Ellis County currently has 1.5 months of inventory. What does that mean for you? Well, in a buyer’s market, we’d have six months or more of inventory. **Ours is a very, very strong seller’s market—I’ve been in the market for nine years and I’ve never seen our inventory this low.** There are certain price points where there simply may not be any homes available to buy, and where there are homes available, there aren’t enough to meet the demand. If you’re looking for a starter home in a nicer neighborhood, be prepared to spend between $225,000 to $250,000.
 
