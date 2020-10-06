@@ -11,7 +11,7 @@ pullquote: Our market is phenomenal and unprecedented.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sep2020-yt-krissy-mireles.jpg
+youtube_alternate_image: /uploads/2020-10-06-5.jpg
 youtube_code: O6BEDv8rysw
 ---
 
