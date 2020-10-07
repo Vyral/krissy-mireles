@@ -17,9 +17,9 @@ youtube_code: O6BEDv8rysw
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s our latest update on what’s going on in our market.</em></p>
+*Here’s our latest update on what’s going on in our market.*
 
-Ellis County currently has 1.5 months of inventory. What does that mean for you? Well, in a buyer’s market, we’d have six months or more of inventory. **Ours is a very, very strong seller’s market—I’ve been in the market for nine years and I’ve never seen our inventory this low.** There are certain price points where there simply may not be any homes available to buy, and where there are homes available, there aren’t enough to meet the demand. If you’re looking for a starter home in a nicer neighborhood, be prepared to spend between $225,000 to $250,000.
+Ellis County currently has 1.5 months of inventory. What does that mean for you? Well, in a buyer’s market, we’d have six months or more of inventory. **Ours is a very, very strong seller’s market—I’ve been in this market for nine years now and I’ve never seen our inventory this low.** There are certain price points where there simply may not be any homes available to buy, and where there are homes available, there aren’t enough to meet the demand. If you’re looking for a starter home in a nicer neighborhood, be prepared to spend between $225,000 to $250,000.
 
 If you’re a seller who has been thinking about making a move, now is the time to do it. Once the election is over, I’m not sure what to expect. Will the marketplace still perform the same way it is now? Maybe it will, maybe it won’t. Many people in the industry predict that we’ll see an influx of foreclosures, which could deflate home prices. I’m not sure if I subscribe to that belief yet, but I do know that if you sell your home now, we can get you top dollar in record time with the fewest inconveniences.
 
