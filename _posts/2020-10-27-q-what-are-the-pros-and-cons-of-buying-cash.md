@@ -17,7 +17,7 @@ youtube_code: dNMOcW-pVxg
 
 {% include youtube.html %}
 
-*“Cash is king,” as they say, but here is a more nuanced look at cash offers.*
+<p style="text-align:center;"><em>“Cash is king,” as they say, but here is a more nuanced look at cash offers.</em></p>
 
 I’ve been in the real estate business for more than 26 years and I’ve never seen so many cash buyers in our marketplace—it’s truly dumbfounding\! So, for all you potential homebuyers out there, I figured it was high time to review the pros and cons of submitting a cash offer.&nbsp;
 
