@@ -23,12 +23,11 @@ I’ve been in the real estate business for more than 26 years and I’ve never 
 
 **Here are the four major pros:&nbsp;**
 
-<div style="margin-right: 1em;">
+
 1. Quick close. By paying cash, you can close a real estate transaction fairly quickly. Now, speed may not be advantageous to a seller who lives in the home and needs time to find their next house, but simply having the ability to close quickly is always a positive.&nbsp;
 2. No appraisals. Sellers love not having to worry about issues arising from an appraisal. If a buyer originates a mortgage, the bank will only lend them the amount for which the property appraises, and negotiating the gap between offer price and appraised value can be tricky.
 3. Saving money on closing costs. Thousands upon thousands of dollars will stay in your pocket. While cash is king (especially in multiple-offer situations), we are seeing instances of cash buyers bidding beyond list price to secure a home in this low-inventory market—yes, our market is so competitive that cash buyers need to be on their toes\! Now, that isn’t the case for every multiple-offer situation, but it is something to take into consideration when you’re trying to find the best way to structure your cash offer.&nbsp;
-4. Foreclosure fears are eliminated. Not having to originate a mortgage means you’ll never be foreclosed on due to default. Of course, you do still need to pay your property taxes.&nbsp;</div>
-
+4. Foreclosure fears are eliminated. Not having to originate a mortgage means you’ll never be foreclosed on due to default. Of course, you do still need to pay your property taxes.&nbsp;
 {% include pullquote.html %}
 
 **Here are the three main cons:&nbsp;**
