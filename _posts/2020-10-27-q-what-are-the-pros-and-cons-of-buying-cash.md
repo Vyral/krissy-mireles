@@ -17,11 +17,11 @@ youtube_code: dNMOcW-pVxg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>“Cash is king,” as they say, but here is a more nuanced look at cash offers.</em></p>
+*“Cash is king,” as they say, but here is a more nuanced look at cash offers.*
 
 I’ve been in the real estate business for more than 26 years and I’ve never seen so many cash buyers in our marketplace—it’s truly dumbfounding\! So, for all you potential homebuyers out there, I figured it was high time to review the pros and cons of submitting a cash offer.&nbsp;
 
-Here are the four major pros:&nbsp;
+**Here are the four major pros:&nbsp;**
 
 1. **Quick close.** By paying cash, you can close a real estate transaction fairly quickly. Now, speed may not be advantageous to a seller who lives in the home and needs time to find their next house, but simply having the ability to close quickly is always a positive.&nbsp;
 2. **No appraisals.** Sellers love not having to worry about issues arising from an appraisal. If a buyer originates a mortgage, the bank will only lend them the amount for which the property appraises, and negotiating the gap between offer price and appraised value can be tricky.
@@ -30,7 +30,7 @@ Here are the four major pros:&nbsp;
 
 {% include pullquote.html %}
 
-Here are the three main cons:&nbsp;
+**Here are the three main cons:&nbsp;**
 
 1. **Dumping all your money into one asset.** Consult with your accountant and attorneys before buying a house via cash offer, as it may not be the most prudent use of your cash on hand. Instead, you may want to invest that cash into different vehicles so as to generate income.&nbsp;
 2. **Liquidity.** If plans change or life takes a drastic turn, you may not be able to get money out of your property as quickly as you’d like.&nbsp;
