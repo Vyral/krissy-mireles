@@ -19,7 +19,7 @@ youtube_code: j_qCMQVGCFE
 
 {% include youtube.html %}
 
-Here’s the first thing you should do as a first-time homebuyer.
+<center><em>Here’s the first thing you should do as a first-time homebuyer.</em></center>
 
 Here at the Krissy Mireles Team, we pride ourselves on working with first-time homebuyers, and we do things a bit differently than other real estate teams in this regard.&nbsp;
 
