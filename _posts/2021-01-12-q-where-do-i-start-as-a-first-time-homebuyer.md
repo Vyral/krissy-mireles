@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What’s the First Step in Buying a Home?'
+title: 'Q: Where Do I Start as a First Time Homebuyer?'
 date: 2021-01-12 12:24:00
 tags:
   - Home Buyer Tips
