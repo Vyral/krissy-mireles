@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here’s the first thing you should do as a first-time homebuyer.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2020/Videos/Q_+What%E2%80%99s+the+First+Step+in+Buying+a+Home_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Krissy+Mireles/2020/Videos/Q_+What%E2%80%99s+the+First+Step+in+Buying+a+Home_+(1).mp4
 pullquote: >-
   Interest rates are still historically low in our market, so now’s the time to
   take advantage.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/01-12-mireles-youtube.jpg
-youtube_code: j_qCMQVGCFE
+youtube_code: '-cUjxahBzKs'
 ---
 
 {% include youtube.html %}
